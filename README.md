@@ -1,5 +1,5 @@
 # Anime-Alert-api
-This api returns the required data such as every show in the current seasonal slot back to the Anime-Alert application.
+This api returns the required data such as every show in the current seasonal slot back to the [Anime-Alert](https://github.com/junqili259/Anime-Alert) application.
 
 
 ## Run API locally
